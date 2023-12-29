@@ -9,10 +9,7 @@ public class WoodenDuck extends Duck{
         this.quackBehavior = new MuteQuack();
     }
 
-    @Override
-    public void swim() {
-        System.out.println("Wooden Duck is swimming!");
-    }
+
 
     @Override
     public void display() {

@@ -3,7 +3,7 @@ package tn.iit.design.patterns.strategy.individu;
 import tn.iit.design.patterns.strategy.comportement.arme.ComportementArme;
 
 public abstract class Individu {
-    ComportementArme arme ;
+    protected ComportementArme arme ;
 
     public  void combattre(){
         arme.utiliseArme();

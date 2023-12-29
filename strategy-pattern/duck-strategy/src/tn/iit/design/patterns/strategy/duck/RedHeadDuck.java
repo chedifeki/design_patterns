@@ -10,11 +10,6 @@ public class RedHeadDuck extends Duck{
     }
 
     @Override
-    public void swim() {
-        System.out.println("Red head is Swimming!");
-    }
-
-    @Override
     public void display() {
         System.out.println("This is a redhead duck!" );
     }

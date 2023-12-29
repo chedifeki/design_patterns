@@ -9,10 +9,6 @@ public class RubberDuck extends Duck{
         this.quackBehavior = new Squack();
     }
 
-    @Override
-    public void swim() {
-        System.out.println("Rubber duck is swimming!");
-    }
 
     @Override
     public void display() {

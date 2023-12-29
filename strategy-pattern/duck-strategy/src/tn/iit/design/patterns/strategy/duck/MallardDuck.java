@@ -10,11 +10,6 @@ public class MallardDuck extends Duck{
     }
 
     @Override
-    public void swim() {
-        System.out.println("Mallard is Swimming!");
-    }
-
-    @Override
     public void display() {
         System.out.println("This is a mallard duck!");
     }

@@ -1,7 +1,6 @@
 package tn.iit.pattern.strategy.test;
 
 import tn.iit.pattern.strategy.behavior.FlyRocketPowered;
-import tn.iit.design.patterns.strategy.duck.*;
 import tn.iit.pattern.strategy.duck.*;
 
 import java.util.ArrayList;

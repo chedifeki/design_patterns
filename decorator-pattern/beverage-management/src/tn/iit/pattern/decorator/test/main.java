@@ -6,7 +6,6 @@ import tn.iit.pattern.decorator.beverages.Tea;
 import tn.iit.pattern.decorator.condiments.Milk;
 import tn.iit.pattern.decorator.condiments.Mint;
 import tn.iit.pattern.decorator.condiments.Pine;
-import tn.iit.pattern.decorator.condiments.Whip;
 
 public class main {
     public static void main(String[] args) {
